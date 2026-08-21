@@ -1,1 +1,6 @@
 hi from Diwakar
+
+git clone <URL>
+git remote -v
+git remote add origin <URL>
+git remove origin
