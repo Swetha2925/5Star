@@ -1,0 +1,2 @@
+git config --global user.email "email" - sets git email
+git config --list - displays git configuration
