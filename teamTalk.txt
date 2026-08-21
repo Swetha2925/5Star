@@ -1,0 +1,7 @@
+hi from Diwakar
+
+git clone <URL> - >  Downloads a Git repository from a remote location (such as GitHub) onto your computer.
+git remote -v   - >  Show me where this local repository is connected.
+
+
+
